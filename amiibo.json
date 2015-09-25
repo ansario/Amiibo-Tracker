@@ -1,0 +1,2986 @@
+{
+    "amiibo": [
+        {
+            "name": "Peach",
+            "id": "40169",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Pikachu",
+            "id": "40185",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Mario",
+            "id": "40165",
+            "cannot_include": "Dr., Doctor, Dr, Junior, Jr., Jr, Gold, Silver, Classic, Classici, classique, Moderni, Modern",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Link",
+            "id": "40181",
+            "cannot_include": "Toon, Cartoon, ",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Yoshi",
+            "id": "40173",
+            "cannot_include": "Green, vert, Grün, Yarn, Woll-Yoshi, Pink, rose, Wooly, Wool-Yoshi, Yarn, Blue, Hellblau, bleu, ciel, Wool-Yoshi, Yarn, Wool",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Donkey Kong",
+            "id": "40193",
+            "cannot_include": "Junior, Jr., Jr",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Samus",
+            "id": "40201",
+            "cannot_include": "Zero, Z., Suit, Z, sans, armure",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Kirby",
+            "id": "40189",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Fox",
+            "id": "40197",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Villager, Bewohner",
+            "id": "40229",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Wii Fit Trainer, Trainerin, Fit",
+            "id": "40209",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Marth",
+            "id": "40233",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Luigi",
+            "id": "40245",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Zelda",
+            "id": "40237",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Diddy Kong",
+            "id": "40241",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Little Mac, Mac",
+            "id": "40249",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Pit",
+            "id": "40253",
+            "cannot_include": "Black, Dark, B.",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Captain Falcon, Captain, Falcon",
+            "id": "40257",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Bowser",
+            "id": "40265",
+            "cannot_include": "Junior, Jr., Jr",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Sheik",
+            "id": "40281",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Sonic",
+            "id": "40293",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Toon Link, Cartoon, Toon",
+            "id": "40277",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Mega Man",
+            "id": "40297",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Rosalina",
+            "id": "40261",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Shulk",
+            "id": "40289",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Lucario",
+            "id": "40273",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Meta Knight, Meta-Knight, Meta",
+            "id": "40305",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Ike",
+            "id": "40285",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "King Dedede, Dedede, König",
+            "id": "40301",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Pac-Man, PAC MAN, PAC, pac, PAC-MAN",
+            "id": "40329",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Wario",
+            "id": "40317",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Charizard, Glurak",
+            "id": "40321",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Ness",
+            "id": "40325",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Greninja, Quajutsu",
+            "id": "00",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Jigglypuff, Pummeluff",
+            "id": "00",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Lucina",
+            "id": "40313",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Robin, Daraen",
+            "id": "40309",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Black, Dark, Finsterer",
+            "id": "48449",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Dr. Mario, Doctor Mario, Dr Mario, Dr., Dr, Doctor",
+            "id": "48661",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Bowser Jr., Bowser Junior, Junior, Jr.",
+            "id": "48665",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Zero Suit, Zero, Z., Zero, sans armure",
+            "id": "48677",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Olimar",
+            "id": "48681",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Ganondorf",
+            "id": "48685",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Palutena",
+            "id": "48673",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Toad",
+            "id": "40489",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Silver Mario, Silver",
+            "id": "47149",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Gold Mario, Gold",
+            "id": "40405",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Inkling Boy, Inkling-Junge, Boy",
+            "id": "40553",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Inkling Girl, Inkling-Mädchen, Girl",
+            "id": "40525",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Inkling Squid, Pack,",
+            "id": "00",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Unknown",
+            "id": "41117",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Peach",
+            "id": "40557",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Pikachu",
+            "id": "40353",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Mario",
+            "id": "40553",
+            "cannot_include": "Dr., Doctor, Dr, Junior, Jr., Jr, Gold, Silver, Classic, Classici, classique, Moderni, Modern",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Link",
+            "id": "40349",
+            "cannot_include": "Toon, Cartoon, ",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Yoshi",
+            "id": "40561",
+            "cannot_include": "Green, vert, Grün, Yarn, Woll-Yoshi, Pink, rose, Wooly, Wool-Yoshi, Yarn, Blue, Hellblau, bleu, ciel, Wool-Yoshi, Yarn, Wool",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Donkey Kong",
+            "id": "40361",
+            "cannot_include": "Junior, Jr., Jr",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Samus",
+            "id": "40369",
+            "cannot_include": "Zero, Z., Suit, Z, sans, armure",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Kirby",
+            "id": "40357",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Fox",
+            "id": "41125",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Villager, Bewohner",
+            "id": "40377",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Wii Fit Trainer, Trainerin, Fit",
+            "id": "40373",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Marth",
+            "id": "40381",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Luigi",
+            "id": "40461",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Zelda",
+            "id": "40385",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Diddy Kong",
+            "id": "40389",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Little Mac, Mac",
+            "id": "40437",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Pit",
+            "id": "40445",
+            "cannot_include": "Black, Dark, B.",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Captain Falcon, Captain, Falcon",
+            "id": "40401",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Bowser",
+            "id": "40409",
+            "cannot_include": "Junior, Jr., Jr",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Sheik",
+            "id": "40425",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Sonic",
+            "id": "40441",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Toon Link, Cartoon, Toon",
+            "id": "40421",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Mega Man",
+            "id": "40449",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Rosalina",
+            "id": "40397",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Shulk",
+            "id": "40433",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Lucario",
+            "id": "00",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Meta Knight, Meta-Knight, Meta",
+            "id": "40457",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Ike",
+            "id": "40429",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "King Dedede, Dedede, König",
+            "id": "40453",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Pac-Man, PAC MAN, PAC, pac, PAC-MAN",
+            "id": "40517",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Wario",
+            "id": "40485",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Charizard, Glurak",
+            "id": "40521",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Ness",
+            "id": "40513",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Greninja, Quajutsu",
+            "id": "00",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Jigglypuff, Pummeluff",
+            "id": "00",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Lucina",
+            "id": "40497",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Robin, Daraen",
+            "id": "40493",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Black, Dark, Finsterer, Finsterer",
+            "id": "48697",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Dr. Mario, Doctor Mario, Dr Mario, Dr., Dr, Doctor",
+            "id": "48689",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Bowser Jr., Bowser Junior, Junior, Jr.",
+            "id": "48693",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Zero Suit, Zero, Z., Zero, sans armure",
+            "id": "48705",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Olimar",
+            "id": "48709",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Ganondorf",
+            "id": "48713",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Palutena",
+            "id": "48701",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Toad",
+            "id": "40573",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Silver Mario, Silver",
+            "id": "47153",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Gold Mario, Gold",
+            "id": "40585",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Inkling Boy, Inkling-Junge, Boy",
+            "id": "40545",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Inkling Girl, Inkling-Mädchen, Girl",
+            "id": "40541",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Inkling Squid, Pack,",
+            "id": "00",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Unknown",
+            "id": "48713",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Peach",
+            "id": "40865",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Pikachu",
+            "id": "40629",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Mario",
+            "id": "40849",
+            "cannot_include": "Dr., Doctor, Dr, Junior, Jr., Jr, Gold, Silver, Classic, Classici, classique, Moderni, Modern",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Link",
+            "id": "40621",
+            "cannot_include": "Toon, Cartoon, ",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Yoshi",
+            "id": "40885",
+            "cannot_include": "Green, vert, Grün, Yarn, Woll-Yoshi, Pink, rose, Wooly, Wool-Yoshi, Yarn, Blue, Hellblau, bleu, ciel, Wool-Yoshi, Yarn, Wool",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Donkey Kong",
+            "id": "40653",
+            "cannot_include": "Junior, Jr., Jr",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Samus",
+            "id": "40677",
+            "cannot_include": "Zero, Z., Suit, Z, sans, armure",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Kirby",
+            "id": "40641",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Fox",
+            "id": "41645",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Villager, Bewohner",
+            "id": "40655",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Wii Fit Trainer, Trainerin, Fit",
+            "id": "40657",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Marth",
+            "id": "40673",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Luigi",
+            "id": "40693",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Zelda",
+            "id": "41129",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Diddy Kong",
+            "id": "40685",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Little Mac, Mac",
+            "id": "40701",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Pit",
+            "id": "40709",
+            "cannot_include": "Black, Dark, B.",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Captain Falcon, Captain, Falcon",
+            "id": "40717",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Bowser",
+            "id": "40737",
+            "cannot_include": "Junior, Jr., Jr",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Sheik",
+            "id": "40757",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Sonic",
+            "id": "40781",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Toon Link, Cartoon, Toon",
+            "id": "41133",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Mega Man",
+            "id": "40785",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Rosalina",
+            "id": "40725",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Shulk",
+            "id": "40773",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Lucario",
+            "id": "40745",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Meta Knight, Meta-Knight, Meta",
+            "id": "40793",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Ike",
+            "id": "40765",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "King Dedede, Dedede, König",
+            "id": "40789",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Pac-Man, PAC MAN, PAC, pac, PAC-MAN",
+            "id": "40837",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Wario",
+            "id": "40813",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Charizard, Glurak",
+            "id": "40821",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Ness",
+            "id": "40833",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Greninja, Quajutsu",
+            "id": "40893",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Jigglypuff, Pummeluff",
+            "id": "40897",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Lucina",
+            "id": "40805",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Robin, Daraen",
+            "id": "40797",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Black, Dark, Finsterer, Finsterer",
+            "id": "48725",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Dr. Mario, Doctor Mario, Dr Mario, Dr., Dr, Doctor",
+            "id": "48717",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Bowser Jr., Bowser Junior, Junior, Jr.",
+            "id": "48721",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Zero Suit, Zero, Z., Zero, sans armure",
+            "id": "48733",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Olimar",
+            "id": "48737",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Ganondorf",
+            "id": "48741",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Palutena",
+            "id": "48729",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Toad",
+            "id": "40873",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Silver Mario, Silver",
+            "id": "47161",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Gold Mario, Gold",
+            "id": "40889",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Inkling Boy, Inkling-Junge, Boy",
+            "id": "40949",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Inkling Girl, Inkling-Mädchen, Girl",
+            "id": "40945",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Inkling Squid, Pack,",
+            "id": "40953",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Unknown",
+            "id": "41137",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Peach",
+            "id": "40913",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Pikachu",
+            "id": "40649",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Mario",
+            "id": "40921",
+            "cannot_include": "Dr., Doctor, Dr, Junior, Jr., Jr, Gold, Silver, Classic, Classici, classique, Moderni, Modern",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Link",
+            "id": "40597",
+            "cannot_include": "Toon, Cartoon, ",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Yoshi",
+            "id": "40917",
+            "cannot_include": "Green, vert, Grün, Yarn, Woll-Yoshi, Pink, rose, Wooly, Wool-Yoshi, Yarn, Blue, Hellblau, bleu, ciel, Wool-Yoshi, Yarn, Wool",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Donkey Kong",
+            "id": "40593",
+            "cannot_include": "Junior, Jr., Jr",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Samus",
+            "id": "40625",
+            "cannot_include": "Zero, Z., Suit, Z, sans, armure",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Kirby",
+            "id": "40613",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Fox",
+            "id": "41609",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Villager, Bewohner",
+            "id": "40637",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Wii Fit Trainer, Trainerin, Fit, Wii Fit-Trainerin",
+            "id": "40633",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Marth",
+            "id": "40577",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Luigi",
+            "id": "40689",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Zelda",
+            "id": "40705",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Diddy Kong",
+            "id": "40669",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Little Mac, Mac",
+            "id": "",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Pit",
+            "id": "40681",
+            "cannot_include": "Black, Dark, B.",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Captain Falcon, Captain, Falcon",
+            "id": "40713",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Bowser",
+            "id": "40801",
+            "cannot_include": "Junior, Jr., Jr",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Sheik",
+            "id": "40777",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Sonic",
+            "id": "40761",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Toon Link, Cartoon, Toon",
+            "id": "41817",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Mega Man",
+            "id": "40769",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Rosalina",
+            "id": "40721",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Shulk",
+            "id": "40729",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Lucario",
+            "id": "40753",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Meta Knight, Meta-Knight, Meta",
+            "id": "40733",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Ike",
+            "id": "40825",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "King Dedede, Dedede, König",
+            "id": "40809",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Pac-Man, PAC MAN, PAC, pac, PAC-MAN",
+            "id": "40845",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Wario",
+            "id": "40829",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Charizard, Glurak",
+            "id": "40841",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Ness",
+            "id": "40877",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Greninja, Quajutsu",
+            "id": "40893",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Jigglypuff, Pummeluff",
+            "id": "40881",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Lucina",
+            "id": "40853",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Robin, Daraen",
+            "id": "40861",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Black, Dark, Finsterer, Finsterer",
+            "id": "48753",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Dr. Mario, Doctor Mario, Dr Mario, Dr., Dr, Doctor",
+            "id": "48745",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Bowser Jr., Bowser Junior, Junior, Jr.",
+            "id": "48749",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Zero Suit, Zero, Z., Zero, sans armure",
+            "id": "48761",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Olimar",
+            "id": "48773",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Ganondorf",
+            "id": "48769",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Palutena",
+            "id": "48757",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Toad",
+            "id": "40925",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Silver Mario, Silver",
+            "id": "47157",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Gold Mario, Gold",
+            "id": "40929",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Inkling Boy, Inkling-Junge, Boy",
+            "id": "40933",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Inkling Girl, Inkling-Mädchen, Girl",
+            "id": "40937",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Inkling Squid, Pack,",
+            "id": "40941",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Unknown",
+            "id": "41141",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Peach",
+            "id": "44665",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Pikachu",
+            "id": "44505",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Mario",
+            "id": "44653",
+            "cannot_include": "Dr., Doctor, Dr, Junior, Jr., Jr, Gold, Silver, Classic, Classici, classique, Moderni, Modern",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Link",
+            "id": "44513",
+            "cannot_include": "Toon, Cartoon, ",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Yoshi",
+            "id": "44673",
+            "cannot_include": "Green, vert, Grün, Yarn, Woll-Yoshi, Pink, rose, Wooly, Wool-Yoshi, Yarn, Blue, Hellblau, bleu, ciel, Wool-Yoshi, Yarn, Wool",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Donkey Kong",
+            "id": "44521",
+            "cannot_include": "Junior, Jr., Jr",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Samus",
+            "id": "44525",
+            "cannot_include": "Zero, Z., Suit, Z, sans, armure",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Kirby",
+            "id": "44509",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Fox",
+            "id": "44529",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Villager, Bewohner",
+            "id": "44541",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Wii Fit Trainer, Trainerin, Fit, Wii Fit-Trainerin",
+            "id": "44537",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Marth",
+            "id": "44533",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Luigi",
+            "id": "44549",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Zelda",
+            "id": "44545",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Diddy Kong",
+            "id": "44557",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Little Mac, Mac",
+            "id": "44553",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Pit",
+            "id": "44561",
+            "cannot_include": "Black, Dark, B.",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Captain Falcon, Captain, Falcon",
+            "id": "44565",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Bowser",
+            "id": "44649",
+            "cannot_include": "Junior, Jr., Jr",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Sheik",
+            "id": "44573",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Sonic",
+            "id": "44581",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Toon Link, Cartoon, Toon",
+            "id": "44585",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Mega Man",
+            "id": "44577",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Rosalina",
+            "id": "44593",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Shulk",
+            "id": "44601",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Lucario",
+            "id": "44613",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Meta Knight, Meta-Knight, Meta",
+            "id": "44605",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Ike",
+            "id": "44589",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "King Dedede, Dedede, König",
+            "id": "44597",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Pac-Man, PAC MAN, PAC, pac, PAC-MAN",
+            "id": "44609",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Wario",
+            "id": "44617",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Charizard, Glurak",
+            "id": "44621",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Ness",
+            "id": "44629",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Greninja, Quajutsu",
+            "id": "48913",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Jigglypuff, Pummeluff",
+            "id": "48921",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Lucina",
+            "id": "44633",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Robin, Daraen",
+            "id": "44625",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Black, Dark, Finsterer, Finsterer",
+            "id": "48785",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Dr. Mario, Doctor Mario, Dr Mario, Dr., Dr, Doctor",
+            "id": "48777",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Bowser Jr., Bowser Junior, Junior, Jr.",
+            "id": "48781",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Zero Suit, Zero, Z., Zero, sans armure",
+            "id": "48793",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Olimar",
+            "id": "48797",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Ganondorf",
+            "id": "48801",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Palutena",
+            "id": "48789",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Toad",
+            "id": "44657",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Silver Mario, Silver",
+            "id": "47169",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Gold Mario, Gold",
+            "id": "40661",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Inkling Boy, Inkling-Junge, Boy",
+            "id": "44677",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Inkling Girl, Inkling-Mädchen, Girl",
+            "id": "44669",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Inkling Squid, Pack,",
+            "id": "44681",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Unknown",
+            "id": "44773",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Peach",
+            "id": "44453",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Pikachu",
+            "id": "44301",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Mario",
+            "id": "44449",
+            "cannot_include": "Dr., Doctor, Dr, Junior, Jr., Jr, Gold, Silver, Classic, Classici, classique, Moderni, Modern",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Link",
+            "id": "44309",
+            "cannot_include": "Toon, Cartoon, ",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Yoshi",
+            "id": "44297",
+            "cannot_include": "Green, vert, Grün, Yarn, Woll-Yoshi, Pink, rose, Wooly, Wool-Yoshi, Yarn, Blue, Hellblau, bleu, ciel, Wool-Yoshi, Yarn, Wool",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Donkey Kong",
+            "id": "44313",
+            "cannot_include": "Junior, Jr., Jr",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Samus",
+            "id": "44317",
+            "cannot_include": "Zero, Z., Suit, Z, sans, armure",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Kirby",
+            "id": "44305",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Fox",
+            "id": "44321",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Villager, Bewohner",
+            "id": "44333",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Wii Fit Trainer, Trainerin, Fit, Wii Fit-Trainerin",
+            "id": "44329",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Marth",
+            "id": "44325",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Luigi",
+            "id": "44337",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Zelda",
+            "id": "44341",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Diddy Kong",
+            "id": "44345",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Little Mac, Mac",
+            "id": "44349",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Pit",
+            "id": "44353",
+            "cannot_include": "Black, Dark, B.",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Captain Falcon, Captain, Falcon",
+            "id": "44361",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Bowser",
+            "id": "44365",
+            "cannot_include": "Junior, Jr., Jr",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Sheik",
+            "id": "44369",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Sonic",
+            "id": "44373",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Toon Link, Cartoon, Toon",
+            "id": "44385",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Mega Man",
+            "id": "44377",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Rosalina",
+            "id": "44381",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Shulk",
+            "id": "44389",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Lucario",
+            "id": "44393",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Meta Knight, Meta-Knight, Meta",
+            "id": "44401",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Ike",
+            "id": "44397",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "King Dedede, Dedede, König",
+            "id": "44405",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Pac-Man, PAC MAN, PAC, pac, PAC-MAN",
+            "id": "44413",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Wario",
+            "id": "44417",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Charizard, Glurak",
+            "id": "44421",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Ness",
+            "id": "44433",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Greninja, Quajutsu",
+            "id": "48917",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Jigglypuff, Pummeluff",
+            "id": "48925",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Lucina",
+            "id": "44429",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Robin, Daraen",
+            "id": "44425",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Black, Dark, Finsterer, Finsterer",
+            "id": "48813",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Dr. Mario, Doctor Mario, Dr Mario, Dr., Dr, Doctor",
+            "id": "48805",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Bowser Jr., Bowser Junior, Junior, Jr.",
+            "id": "48809",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Zero Suit, Zero, Z., Zero, sans armure",
+            "id": "48825",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Olimar",
+            "id": "48829",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Ganondorf",
+            "id": "48833",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Palutena",
+            "id": "48817",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Toad",
+            "id": "44465",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Silver Mario, Silver",
+            "id": "47165",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Gold Mario, Gold",
+            "id": "44473",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Inkling Boy, Inkling-Junge, Boy",
+            "id": "44469",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Inkling Girl, Inkling-Mädchen, Girl",
+            "id": "44477",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Inkling Squid, Pack,",
+            "id": "44485",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Unknown",
+            "id": "44685",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Peach",
+            "id": "41049",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Pikachu",
+            "id": "41157",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Mario",
+            "id": "41057",
+            "cannot_include": "Dr., Doctor, Dr, Junior, Jr., Jr, Gold, Silver, Classic, Classici, classique, Moderni, Modern",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Link",
+            "id": "41161",
+            "cannot_include": "Toon, Cartoon, ",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Yoshi",
+            "id": "41173",
+            "cannot_include": "Green, vert, Grün, Yarn, Woll-Yoshi, Pink, rose, Wooly, Wool-Yoshi, Yarn, Blue, Hellblau, bleu, ciel, Wool-Yoshi, Yarn, Wool",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Donkey Kong",
+            "id": "41177",
+            "cannot_include": "Junior, Jr., Jr",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Samus",
+            "id": "41165",
+            "cannot_include": "Zero, Z., Suit, Z, sans, armure",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Kirby",
+            "id": "41169",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Fox",
+            "id": "41053",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Villager, Bewohner",
+            "id": "41037",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Wii Fit Trainer, Trainerin, Fit, Wii Fit-Trainerin",
+            "id": "41041",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Marth",
+            "id": "41045",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Luigi",
+            "id": "41025",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Zelda",
+            "id": "41029",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Diddy Kong",
+            "id": "41033",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Little Mac, Mac",
+            "id": "41013",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Pit",
+            "id": "41017",
+            "cannot_include": "Black, Dark, B.",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Captain Falcon, Captain, Falcon",
+            "id": "41021",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Bowser",
+            "id": "41005",
+            "cannot_include": "Junior, Jr., Jr",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Sheik",
+            "id": "40985",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Sonic",
+            "id": "40997",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Toon Link, Cartoon, Toon",
+            "id": "40981",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Mega Man",
+            "id": "41001",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Rosalina",
+            "id": "41181",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Shulk",
+            "id": "41185",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Lucario",
+            "id": "41189",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Meta Knight, Meta-Knight, Meta",
+            "id": "40989",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Ike",
+            "id": "40993",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "King Dedede, Dedede, König",
+            "id": "41009",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Pac-Man, PAC MAN, PAC, pac, PAC-MAN",
+            "id": "40977",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Wario",
+            "id": "40957",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Charizard, Glurak",
+            "id": "40961",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Ness",
+            "id": "41193",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Greninja, Quajutsu",
+            "id": "00000",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Jigglypuff, Pummeluff",
+            "id": "00000",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Lucina",
+            "id": "40969",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Robin, Daraen",
+            "id": "40965",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Black, Dark, Finsterer",
+            "id": "48849",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Dr. Mario, Doctor Mario, Dr Mario, Dr., Dr, Doctor",
+            "id": "48837",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Bowser Jr., Bowser Junior, Junior, Jr.",
+            "id": "48847",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Zero Suit, Zero, Z., Zero, sans armure",
+            "id": "48857",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Olimar",
+            "id": "48865",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Ganondorf",
+            "id": "48869",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Palutena",
+            "id": "48853",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Toad",
+            "id": "41201",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Silver Mario, Silver",
+            "id": "47177",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Gold Mario, Gold",
+            "id": "00000",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Inkling Boy, Inkling-Junge, Boy",
+            "id": "41209",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Inkling Girl, Inkling-Mädchen, Girl",
+            "id": "41205",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Inkling Squid, Pack,",
+            "id": "00000",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Unknown",
+            "id": "41217",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        		{
+            "name": "Blue, Hellblau, bleu, ciel, Wool-Yoshi, Yarn, Wool",
+            "id": "52661",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Pink, rose, Wooly, Wool-Yoshi, Yarn",
+            "id": "52653",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Green, vert, Grün, Yarn, Woll-Yoshi",
+            "id": "52657",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Blue, Hellblau, bleu, ciel, Wool-Yoshi, Yarn, Wool",
+            "id": "52673",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Pink, rose, Wooly, Wool-Yoshi, Yarn",
+            "id": "52669",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Green, vert, Grün, Yarn, Woll-Yoshi",
+            "id": "52665",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Blue, Hellblau, bleu, ciel, Wool-Yoshi, Yarn, Wool",
+            "id": "52689",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Pink, rose, Wooly, Wool-Yoshi, Yarn",
+            "id": "52697",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Green, vert, Grün, Yarn, Woll-Yoshi",
+            "id": "52693",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        		{
+            "name": "Blue, Hellblau, bleu, ciel, Wool-Yoshi, Yarn, Wool",
+            "id": "52677",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Pink, rose, Wooly, Wool-Yoshi, Yarn",
+            "id": "52685",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Green, vert, Grün, Yarn, Woll-Yoshi",
+            "id": "52681",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        		{
+            "name": "Blue, Hellblau, bleu, ciel, Wool-Yoshi, Yarn, Wool",
+            "id": "52713",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Pink, rose, Wooly, Wool-Yoshi, Yarn",
+            "id": "52721",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Green, vert, Grün, Yarn, Woll-Yoshi",
+            "id": "52717",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        		{
+            "name": "Blue, Hellblau, bleu, ciel, Wool-Yoshi, Yarn, Wool",
+            "id": "52701",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Pink, rose, Wooly, Wool-Yoshi, Yarn",
+            "id": "52709",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Green, vert, Grün, Yarn, Woll-Yoshi",
+            "id": "52705",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        		{
+            "name": "Blue, Hellblau, bleu, ciel, Wool-Yoshi, Yarn, Wool",
+            "id": "52725",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Pink, rose, Wooly, Wool-Yoshi, Yarn",
+            "id": "52733",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Green, vert, Grün, Yarn, Woll-Yoshi",
+            "id": "52729",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Classic, Classici, classique",
+            "id": "52741",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Classic, Classici, classique",
+            "id": "52753",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Classic, Classici, classique",
+            "id": "52757",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Classic, Classici, classique",
+            "id": "52765",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Classic, Classici, classique",
+            "id": "52773",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Classic, Classici, classique",
+            "id": "52785",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Classic, Classici, classique",
+            "id": "52793",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Moderni, Modern",
+            "id": "52737",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Moderni, Modern",
+            "id": "52745",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Moderni, Modern",
+            "id": "52761",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Moderni, Modern",
+            "id": "52769",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Moderni, Modern",
+            "id": "52777",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Moderni, Modern",
+            "id": "52781",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Moderni, Modern",
+            "id": "52789",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Fuffi, Isabelle",
+            "id": "52797",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Fuffi, Isabelle",
+            "id": "52801",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Fuffi, Isabelle",
+            "id": "52805",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Fuffi, Isabelle",
+            "id": "52809",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Fuffi, Isabelle",
+            "id": "52813",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Fuffi, Isabelle",
+            "id": "52817",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Fuffi, Isabelle",
+            "id": "52821",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Agostina, Mabel",
+            "id": "52825",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Agostina, Mabel",
+            "id": "52829",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Agostina, Mabel",
+            "id": "52833",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Agostina, Mabel",
+            "id": "52837",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Agostina, Mabel",
+            "id": "52841",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Agostina, Mabel",
+            "id": "52845",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Agostina, Mabel",
+            "id": "52849",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Tom",
+            "id": "52853",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Tom",
+            "id": "52857",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Tom",
+            "id": "52861",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Tom",
+            "id": "52865",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Tom",
+            "id": "52869",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Tom",
+            "id": "52877",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Tom",
+            "id": "52873",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Casimira, Lottie",
+            "id": "52881",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Casimira, Lottie",
+            "id": "52885",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Casimira, Lottie",
+            "id": "52889",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Casimira, Lottie",
+            "id": "52893",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Casimira, Lottie",
+            "id": "52897",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Casimira, Lottie",
+            "id": "52901",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Casimira, Lottie",
+            "id": "52905",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Merino, Cyrus",
+            "id": "52909",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Merino, Cyrus",
+            "id": "52913",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Merino, Cyrus",
+            "id": "52917",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Merino, Cyrus",
+            "id": "52921",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Merino, Cyrus",
+            "id": "52925",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Merino, Cyrus",
+            "id": "52929",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Merino, Cyrus",
+            "id": "52933",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Alpaca, Reese",
+            "id": "52937",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Alpaca, Reese",
+            "id": "52941",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Alpaca, Reese",
+            "id": "52945",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Alpaca, Reese",
+            "id": "52949",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Alpaca, Reese",
+            "id": "52953",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Alpaca, Reese",
+            "id": "52957",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Alpaca, Reese",
+            "id": "52961",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Fofò, Digby",
+            "id": "52965",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Fofò, Digby",
+            "id": "52969",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Fofò, Digby",
+            "id": "52973",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Fofò, Digby",
+            "id": "52977",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Fofò, Digby",
+            "id": "52981",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Fofò, Digby",
+            "id": "52985",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Fofò, Digby",
+            "id": "52989",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "K.K. Slider, K.K., Slider",
+            "id": "52993",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "K.K. Slider, K.K., Slider",
+            "id": "52997",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "K.K. Slider, K.K., Slider",
+            "id": "53005",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "K.K. Slider, K.K., Slider",
+            "id": "53001",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "K.K. Slider, K.K., Slider",
+            "id": "53009",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "K.K. Slider, K.K., Slider",
+            "id": "53013",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "K.K. Slider, K.K., Slider",
+            "id": "53017",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Lottatore, Brawler, Mii-Boxer, Boxer, Boxeur",
+            "id": "53021",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Lottatore, Brawler, Mii-Boxer, Boxer, Boxeur",
+            "id": "53025",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Lottatore, Brawler, Mii-Boxer, Boxer, Boxeur",
+            "id": "53029",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Lottatore, Brawler, Mii-Boxer, Boxer, Boxeur",
+            "id": "53033",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Lottatore, Brawler, Mii-Boxer, Boxer, Boxeur",
+            "id": "53037",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Lottatore, Brawler, Mii-Boxer, Boxer, Boxeur",
+            "id": "53041",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Lottatore, Brawler, Mii-Boxer, Boxer, Boxeur",
+            "id": "53045",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Fuciliere, Mii-Schützin, Gunner, Tireuse",
+            "id": "53049",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Fuciliere, Mii-Schützin, Gunner, Tireuse",
+            "id": "53053",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Fuciliere, Mii-Schützin, Gunner, Tireuse",
+            "id": "53057",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Fuciliere, Mii-Schützin, Gunner, Tireuse",
+            "id": "53061",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Fuciliere, Mii-Schützin, Gunner, Tireuse",
+            "id": "53065",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Fuciliere, Mii-Schützin, Gunner, Tireuse",
+            "id": "53069",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Fuciliere, Mii-Schützin, Gunner, Tireuse",
+            "id": "53073",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+        "name": "Spadaccino, Sword, Mii-Schwertkämpfer, Epéiste",
+        "id": "53077",
+        "cannot_include": "",
+        "retailer": "Amazon.com"
+        },
+        {
+            "name": "Spadaccino, Sword, Mii-Schwertkämpfer, Epéiste",
+            "id": "53081",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Spadaccino, Sword, Mii-Schwertkämpfer, Epéiste",
+            "id": "53085",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Spadaccino, Sword, Mii-Schwertkämpfer, Epéiste",
+            "id": "53089",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Spadaccino, Sword, Mii-Schwertkämpfer, Epéiste",
+            "id": "53093",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Spadaccino, Sword, Mii-Schwertkämpfer, Epéiste",
+            "id": "53097",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Spadaccino, Sword, Mii-Schwertkämpfer, Epéiste",
+            "id": "53101",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Duck",
+            "id": "53105",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Duck",
+            "id": "53109",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Duck",
+            "id": "53113",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Duck",
+            "id": "53117",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Duck",
+            "id": "53121",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Duck",
+            "id": "53125",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Duck",
+            "id": "53129",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "R.O.B., ROB",
+            "id": "53133",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "R.O.B., ROB",
+            "id": "53137",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "R.O.B., ROB",
+            "id": "53141",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "R.O.B., ROB",
+            "id": "53145",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "R.O.B., ROB",
+            "id": "53149",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "R.O.B., ROB",
+            "id": "53153",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "R.O.B., ROB",
+            "id": "53157",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Watch, Game&Watch, Game & Watch, Game and Watch",
+            "id": "53161",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Watch, Game&Watch, Game & Watch, Game and Watch",
+            "id": "53165",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Watch, Game&Watch, Game & Watch, Game and Watch",
+            "id": "53169",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Watch, Game&Watch, Game & Watch, Game and Watch",
+            "id": "53173",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Watch, Game&Watch, Game & Watch, Game and Watch",
+            "id": "53177",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Watch, Game&Watch, Game & Watch, Game and Watch",
+            "id": "53181",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Watch, Game&Watch, Game & Watch, Game and Watch",
+            "id": "53185",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        },
+        {
+            "name": "Falco",
+            "id": "53189",
+            "cannot_include": "",
+            "retailer": "Amazon.com"
+        },
+        {
+            "name": "Falco",
+            "id": "53193",
+            "cannot_include": "",
+            "retailer": "Amazon.ca"
+        },
+        {
+            "name": "Falco",
+            "id": "53197",
+            "cannot_include": "",
+            "retailer": "Amazon.co.uk"
+        },
+        {
+            "name": "Falco",
+            "id": "53201",
+            "cannot_include": "",
+            "retailer": "Amazon.de"
+        },
+        {
+            "name": "Falco",
+            "id": "53205",
+            "cannot_include": "",
+            "retailer": "Amazon.fr"
+        },
+        {
+            "name": "Falco",
+            "id": "53209",
+            "cannot_include": "",
+            "retailer": "Amazon.it"
+        },
+        {
+            "name": "Falco",
+            "id": "53213",
+            "cannot_include": "",
+            "retailer": "Bestbuy.com"
+        }
+    ]
+}
